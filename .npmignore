@@ -1,0 +1,8 @@
+src/
+test/
+skill/
+docs/
+tsconfig.json
+.github/
+*.ts
+!dist/**/*.ts

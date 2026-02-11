@@ -1,0 +1,32 @@
+{
+  "current_condition": [{
+    "temp_C": "15",
+    "temp_F": "59",
+    "FeelsLikeC": "13",
+    "FeelsLikeF": "55",
+    "humidity": "65",
+    "weatherCode": "116",
+    "weatherDesc": [{"value": "Partly cloudy"}],
+    "windspeedKmph": "12",
+    "windspeedMiles": "7",
+    "winddir16Point": "SW"
+  }],
+  "nearest_area": [{
+    "areaName": [{"value": "Seoul"}],
+    "region": [{"value": "Seoul"}],
+    "country": [{"value": "South Korea"}]
+  }],
+  "weather": [{
+    "date": "2026-02-11",
+    "maxtempC": "18",
+    "maxtempF": "64",
+    "mintempC": "8",
+    "mintempF": "46",
+    "astronomy": [{"sunrise": "07:15 AM", "sunset": "06:10 PM"}],
+    "hourly": [
+      {"weatherCode": "116", "chanceofrain": "10"},
+      {"weatherCode": "116", "chanceofrain": "15"},
+      {"weatherCode": "113", "chanceofrain": "5"}
+    ]
+  }]
+}
