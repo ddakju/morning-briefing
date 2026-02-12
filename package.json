@@ -1,6 +1,6 @@
 {
   "name": "@openclaw-tools/morning-briefing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Local morning briefing CLI for OpenClaw — weather, calendar, news, reminders with zero API token cost",
   "type": "module",
   "main": "dist/src/index.js",
@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/openclaw-tools/morning-briefing.git"
+    "url": "https://github.com/ddakju/morning-briefing.git"
   },
-  "homepage": "https://github.com/openclaw-tools/morning-briefing#readme",
+  "homepage": "https://ddakju.github.io/morning-briefing/",
   "bugs": {
-    "url": "https://github.com/openclaw-tools/morning-briefing/issues"
+    "url": "https://github.com/ddakju/morning-briefing/issues"
   },
   "bin": {
     "briefing": "./bin/briefing.js"
