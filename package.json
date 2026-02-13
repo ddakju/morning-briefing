@@ -1,6 +1,6 @@
 {
   "name": "@openclaw-tools/morning-briefing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Local morning briefing CLI for OpenClaw — weather, calendar, news, reminders with zero API token cost",
   "type": "module",
   "main": "dist/src/index.js",

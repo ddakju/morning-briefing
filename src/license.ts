@@ -17,8 +17,8 @@ const LS_LICENSE_API = "https://api.lemonsqueezy.com/v1/licenses";
  * Replace with actual values from your Lemon Squeezy dashboard.
  * When set to 0, the check is skipped (useful during initial setup).
  */
-const LS_STORE_ID = 0; // TODO: Set your Lemon Squeezy store ID
-const LS_PRODUCT_ID = 0; // TODO: Set your Lemon Squeezy product ID
+const LS_STORE_ID = 290206;
+const LS_PRODUCT_ID = 827446;
 
 // ─── Fingerprint ─────────────────────────────────────────────────────────────
 
@@ -173,7 +173,7 @@ export function requireLicense(
 
   console.error(
     `\n  The "${feature}" feature requires a license.\n` +
-      `  Purchase one at https://morning-briefing.lemonsqueezy.com\n` +
+      `  Purchase one at https://roistore.lemonsqueezy.com\n` +
       `  Then run: briefing activate <key>\n`,
   );
   process.exit(3);
